@@ -1,0 +1,11 @@
+{
+  "hooks": [
+    {
+      "name": "brand-voice-check",
+      "description": "Checks all output files for banned FemFit brand voice words before saving",
+      "event": "pre_tool_use",
+      "tool": "Write",
+      "command": "python .claude/hooks/brand-voice-check.py"
+    }
+  ]
+}
