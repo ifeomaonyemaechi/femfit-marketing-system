@@ -1,46 +1,6 @@
-# FemFit.fit — AI Marketing Operations System
-**Built by Ifeoma Onyemaechi | AIMarketer.co**
+**Part 2:**
 
-An AI-powered marketing operations system for FemFit.fit, a women's
-fitness DTC brand. Built with Claude Code and the Anthropic API.
-This system handles every marketing function for the brand through
-specialised AI agents, reusable skill templates, and automated
-Python pipelines.
-
----
-
-## SYSTEM CAPABILITIES
-
-### Email Marketing
-- 13-email campaign system across 4 campaign types
-- Welcome series, promotional campaigns, re-engagement sequences,
-  post-purchase flows
-- Klaviyo-ready formatting with merge tags and conditional blocks
-- Subject line generation with 10 variants per email
-- Generated 13 emails in under 20 minutes
-
-### Social Media
-- Instagram captions, Reels scripts, carousel copy
-- TikTok video scripts and production briefs
-- Weekly content packs (8 pieces minimum)
-- All content mapped to 4 strategic content pillars
-
-### Brand Strategy
-- Full brand voice documentation
-- 30-day content calendar
-- Audience persona development
-- Content pillar mapping
-
-### Marketing Audits
-- 5-channel audit system (email, Instagram, TikTok, website, SMS)
-- Weighted scoring against industry benchmarks
-- Revenue impact projections in rands
-- 90-day action plans with specific instructions
-
----
-
-## SYSTEM ARCHITECTURE
-
+```markdown
 ---
 
 ## AGENTS
@@ -48,9 +8,12 @@ Python pipelines.
 | Agent | Function |
 |-------|----------|
 | `email-copywriter` | All email campaigns and Klaviyo flows |
-| `social-media-manager` | Instagram and TikTok content |
+| `social-media-manager` | Instagram, TikTok, LinkedIn, Facebook, Pinterest |
 | `brand-voice-guardian` | Quality control and voice auditing |
 | `marketing-auditor` | Channel audits and strategy reports |
+| `content-strategist` | Content calendars and campaign planning |
+| `ad-copywriter` | Meta and Google ad copy |
+| `seo-strategist` | Product descriptions, blog posts, meta fields |
 
 ---
 
@@ -60,9 +23,35 @@ Python pipelines.
 |-------|--------|
 | `write-welcome-series` | 3-email welcome sequence |
 | `write-promo-campaign` | Flash sales, launches, seasonal |
+| `write-abandoned-cart` | 3-email cart recovery sequence |
 | `generate-subject-lines` | 10 variants across 10 angles |
 | `write-instagram-caption` | Feed, Reels, carousel captions |
+| `write-tiktok-script` | Full TikTok video script |
+| `write-linkedin-post` | Founder story, product truth, philosophy |
+| `write-video-brief` | Full production brief with shot list |
+| `write-carousel-script` | Slide-by-slide carousel script |
+| `write-blog-post` | SEO-optimised blog post |
+| `write-ad-creative-brief` | Meta and Google ad creative brief |
+| `write-product-description` | Shopify product description |
+| `generate-content-calendar` | 30-day or weekly content calendar |
 | `run-channel-audit` | Single channel audit and score |
+
+---
+
+## HOOKS
+
+| Hook | Function |
+|------|----------|
+| `brand-voice-check.py` | Blocks banned words before output saves |
+| `hooks.json` | Registers hook with Claude Code |
+
+---
+
+## MCP SERVERS
+
+| Server | Function |
+|--------|----------|
+| GitHub MCP | Repository management, commits, issue tracking |
 
 ---
 
@@ -74,13 +63,16 @@ Python pipelines.
 | Brand Voice and Content Strategy | 600+ line deliverable | 161 seconds |
 | Social Media Content Engine | 8 content pieces | 122 seconds |
 | Marketing Audit System | 5-channel audit, 4.0/10 score | 221 seconds |
+| Welcome Series (Claude Code) | 3 Klaviyo-ready emails | 47 seconds |
+| Email Channel Audit (Claude Code) | R24k-R36k uplift identified | 2 minutes 4 seconds |
 
 ---
 
 ## TECH STACK
-- Claude Code (agent orchestration)
+- Claude Code 2.1.112 (agent orchestration)
 - Anthropic API with claude-sonnet-4-20250514
-- Python 3.14
+- Python 3.14 (26 pipeline scripts)
+- GitHub MCP (repository management)
 - Klaviyo (email platform)
 - Shopify (ecommerce)
 - Git + GitHub (version control)
@@ -97,4 +89,4 @@ ifeomaonyemaechi1@gmail.com
 [GitHub](https://github.com/ifeomaonyemaechi)
 
 *This system was built as part of a portfolio demonstrating
-AI-powered marketing automation for eCommerce and DTC brands.*
+AI-powered marketing automation for eCommerce and DTC brands.
