@@ -7,7 +7,7 @@ Name: FemFit.fit
 Type: Women's fitness DTC brand
 Products: Gym wear, shoes, home workout equipment
 Founded by: A woman who trains, for women who actually train
-Platform: Shopify (ecommerce), Klaviyo (email), Instagram, TikTok
+Platform: Shopify (ecommerce), Klaviyo (email), Instagram, TikTok, facebook and pinterest 
 Markets: Nigeria, South Africa, UK and US (primarily English-speaking)
 Price point: Mid-market — quality-conscious, value-aware
 
@@ -133,6 +133,16 @@ Klaviyo — all flows and campaigns
 - Posting frequency: 4-5x per week minimum
 - Style: raw, authentic, no ring light influencer aesthetic
 - Primary metric: watch time percentage
+
+### Facebook
+- Posting frequency: 3-4x per week
+- Content: repurposed from Instagram, community-focused
+- Primary metric: reach and shares
+
+### Pinterest
+- Posting frequency: 5-7 pins per week
+- Content: product photography, workout guides, lifestyle imagery
+- Primary metric: outbound clicks to Shopify
 
 ## CONTENT PILLARS
 1. Real Training, Real Results
