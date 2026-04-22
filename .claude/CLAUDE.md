@@ -74,6 +74,9 @@ outputs/ — all generated content saved here
 - Every output must pass brand voice check before saving
 - Klaviyo-ready emails must include subject line, preview text,
   body copy, and CTA button text
+  - Never use em dashes (—) in any output. Use a hyphen (-) or
+  a colon (:) instead. Example: "CV OPTIMIZATION: Ifeoma
+  Onyemaechi" not "CV OPTIMIZATION — Ifeoma Onyemaechi"
 
 ## METRICS TO TRACK
 Log these for every generation run:
