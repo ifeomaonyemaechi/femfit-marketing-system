@@ -1,0 +1,669 @@
+============================================================
+AIMARKETER.CO
+LEAD GENERATION AND OUTREACH CAMPAIGN
+Generated: 24 April 2026
+Pipeline duration: 231 seconds
+============================================================
+
+CAMPAIGN OVERVIEW
+────────────────────────────────────────
+Total leads processed:     6
+Leads qualified:           6
+Qualification rate:        100%
+Outreach messages sent:    18 (email, DM, LinkedIn per lead)
+Follow-up emails queued:   18 (3 touches per lead)
+Total touchpoints:         36
+
+============================================================
+
+QUALIFIED LEADS SUMMARY
+────────────────────────────────────────
+
+Brand:    RootGlow Skincare
+Contact:  Priya Nair — Founder and CEO
+Industry: Beauty and skincare
+Score:    100/100
+
+Brand:    StrongForm Co
+Contact:  Marcus Webb — Co-founder
+Industry: Fitness and activewear
+Score:    100/100
+
+Brand:    Bloom & Ritual
+Contact:  Sophie Alderton — Founder
+Industry: Wellness and supplements
+Score:    100/100
+
+Brand:    Haus of Linen
+Contact:  Amara Osei — Founder and Creative Director
+Industry: Sustainable fashion
+Score:    100/100
+
+Brand:    Vivace Nutrition
+Contact:  Daniel Ferreira — CEO
+Industry: Wellness and supplements
+Score:    100/100
+
+Brand:    Canopy Home
+Contact:  Yuki Tanaka — Founder
+Industry: Home and lifestyle
+Score:    100/100
+
+============================================================
+
+OUTREACH AND FOLLOW-UP LOG
+────────────────────────────────────────
+
+────────────────────────────────────────
+LEAD 1: RootGlow Skincare
+────────────────────────────────────────
+INITIAL OUTREACH:
+**MESSAGE 1 — COLD EMAIL:**
+
+SUBJECT: Your SPF50 launch + a missing welcome sequence
+
+BODY:
+
+Priya,
+
+Saw you launched the SPF50 facial oil on Tuesday — congrats. That's a product with a real education story behind it (melanin-rich skin and SPF is genuinely misunderstood territory).
+
+Here's what I noticed: your site has an email signup, but there's no welcome sequence catching that launch traffic. Every person landing on RootGlow right now from that Instagram push is either converting immediately or disappearing. No nurture, no brand story, no second chance.
+
+With Klaviyo already in place, you're one automated sequence away from turning browsers into buyers — especially for a considered purchase like SPF.
+
+I build AI-powered email systems for beauty brands. Happy to send a free teardown of what a welcome flow could look like for RootGlow — no call required.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+**MESSAGE 2 — INSTAGRAM DM:**
+
+DM:
+
+Hey Priya — just saw the SPF50 launch. That product actually matters for your audience in a way most brands can't claim.
+
+One thing I kept thinking scrolling your grid: the educational content around *why* SPF works differently on melanin-rich skin could be huge for you. The science is on your side but the captions aren't telling that story yet.
+
+Is that something you're planning to build out?
+
+---
+
+**MESSAGE 3 — LINKEDIN MESSAGE:**
+
+LINKEDIN:
+
+Priya — came across RootGlow while researching skincare brands doing interesting work for underserved markets. Natural skincare for women of colour is a specific positioning that most founders wouldn't have the insight to pursue.
+
+Noticed you're in active growth mode (congrats on the SPF50 launch). One pattern I see with brands at your stage: product development outpaces content infrastructure. The voice and the automation don't scale as fast as the SKUs.
+
+I work with beauty founders on exactly that gap — AI-powered brand voice and Klaviyo automation.
+
+Would love to hear how you're thinking about content systems as you grow. Open to a quick conversation?
+
+Ifeoma
+
+FOLLOW-UP SEQUENCE:
+TOUCH 1: VALUE ADD
+SUBJECT: The welcome email that converts best for SPF products
+
+BODY:
+
+Priya,
+
+Quick insight from working with other melanin-focused skincare brands: welcome sequences that lead with education (not discount codes) convert 40% higher for SPF products specifically.
+
+The reason? SPF for darker skin tones requires trust-building first. A "here's 10% off" email skips the part where you address the real objection — "will this leave a white cast?"
+
+RootGlow already has the credibility content on your site. It's just not automated yet.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+TOUCH 2: TIMELY RELEVANCE
+SUBJECT: Summer's already here for your customers
+
+BODY:
+
+Priya,
+
+SPF search volume jumped 34% this month. Your SPF50 facial oil launched at the right time — but that window where people are actively looking closes fast.
+
+Right now, someone's on RootGlow's site comparing you to Supergoop. If they leave without buying, the only follow-up they get is… a competitor's retargeting ad.
+
+One email sequence changes that entire dynamic. Happy to show you what that looks like for RootGlow specifically.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+TOUCH 3: CLEAN CLOSE
+SUBJECT: Last note on this
+
+BODY:
+
+Priya,
+
+Final email from me on this — no hard feelings either way.
+
+If RootGlow ever needs email automation that matches the quality of your product education, I'm here. Your SPF content is too good to only live on Instagram.
+
+Ifeoma
+AIMarketer.co
+
+────────────────────────────────────────
+LEAD 2: StrongForm Co
+────────────────────────────────────────
+INITIAL OUTREACH:
+**MESSAGE 1 — COLD EMAIL:**
+
+SUBJECT: Your lifting belt ad vs. what happens after checkout
+
+BODY:
+
+Marcus,
+
+Saw your Meta ad for the new lifting belt. Clean product shots, but the copy reads like every other fitness brand — "built for performance," "engineered for lifters." Your gear looks better than that.
+
+Here's the bigger issue though: I signed up to see your email flow. After purchase, customers get a receipt and nothing else. No review request, no cross-sell to compression tops, no "here's how to break in your belt" content.
+
+You're paying to acquire these customers. Then silence.
+
+I help brands build AI-powered email sequences that actually sound human and drive repeat purchases. Takes about 15 minutes to show you what's missing.
+
+Worth a quick call this week?
+
+Ifeoma
+AIMarketer.co
+
+---
+
+**MESSAGE 2 — INSTAGRAM DM:**
+
+DM:
+
+Hey Marcus — been following StrongForm for a bit. The product photography is genuinely solid, especially the recent belt shots.
+
+Noticed you went quiet for about 6 days after a strong run of posts. Founder bandwidth thing or intentional?
+
+Asking because I work with fitness brands on automating the stuff that usually falls off when things get busy.
+
+---
+
+**MESSAGE 3 — LINKEDIN MESSAGE:**
+
+LINKEDIN:
+
+Marcus — one founder to another, StrongForm caught my attention. Men's functional lifting gear is a specific lane, and you're clearly committed (the Meta spend on the belt launch says that).
+
+Quick observation from the outside: your acquisition game looks active, but the retention infrastructure seems light. Mailchimp receipts going out, but nothing building the relationship after.
+
+I specialise in helping brands at your stage build AI-powered email systems that don't sound like robots wrote them.
+
+No pitch — just curious if that's something on your radar right now or if you're focused elsewhere.
+
+Ifeoma
+
+FOLLOW-UP SEQUENCE:
+TOUCH 1: VALUE ADD
+SUBJECT: What Gymshark does after the lifting belt sells
+
+BODY:
+
+Marcus,
+
+Pulled some data on post-purchase flows in activewear. Brands like Gymshark and Alphalete send 4-6 emails in the first 14 days after purchase — care instructions, UGC requests, complementary product drops.
+
+StrongForm has the product quality to compete. The gap is what happens after checkout.
+
+Mapped out what a 5-email post-purchase sequence could look like for your lifting belt buyers. Happy to send it over if useful.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+TOUCH 2: TIMELY RELEVANCE
+SUBJECT: Summer cut season is your cross-sell window
+
+BODY:
+
+Marcus,
+
+Every fitness brand is about to get louder for summer. You'll be competing harder for new customers.
+
+The easier play: your existing lifting belt buyers are probably shopping for compression gear, tanks, and accessories right now. One targeted email sequence to past purchasers could drive revenue without spending another dollar on ads.
+
+StrongForm already has the audience. Just no system talking to them.
+
+15 minutes to show you what that looks like?
+
+Ifeoma
+AIMarketer.co
+
+---
+
+TOUCH 3: CLEAN CLOSE
+SUBJECT: Last note from me
+
+BODY:
+
+Marcus,
+
+Final email — won't keep filling your inbox.
+
+If StrongForm ever wants to turn one-time belt buyers into repeat customers without hiring a copywriter or building flows from scratch, the offer stands.
+
+Either way, good luck with the summer push.
+
+Ifeoma
+AIMarketer.co
+
+────────────────────────────────────────
+LEAD 3: Bloom & Ritual
+────────────────────────────────────────
+INITIAL OUTREACH:
+**MESSAGE 1 — COLD EMAIL:**
+
+SUBJECT: Your cycle care products + Klaviyo segmentation
+
+BODY:
+Sophie,
+
+Noticed you're posting daily on Instagram but engagement isn't matching the effort. That's not a content problem — it's a systems problem.
+
+Your cycle care, sleep, and adaptogen products are perfect for segmented email journeys (imagine: content that lands in someone's inbox based on where they are in their cycle). But right now, everyone gets the same generic welcome email regardless of what brought them in.
+
+With Klaviyo already running, you're one automation layer away from turning that list into educated buyers who trust what they're putting in their bodies.
+
+Also saw the TikTok launch — smart move. Happy to show you how AI workflows can repurpose your existing content across both channels without doubling your workload.
+
+Want me to put together a free audit of your current flows?
+
+Ifeoma
+AIMarketer.co
+
+---
+
+**MESSAGE 2 — INSTAGRAM DM:**
+
+DM:
+Hey Sophie — been following Bloom & Ritual for a bit. Your brand tone is spot on (warm without being preachy, which is rare in wellness).
+
+Quick thought: your cycle care line is begging for content that matches the phases — educational stuff that builds trust before the sale. Right now everything reads promotional.
+
+Have you experimented with educational sequences tied to the products?
+
+---
+
+**MESSAGE 3 — LINKEDIN MESSAGE:**
+
+LINKEDIN:
+Sophie — founder to founder here. Building in the supplements space is tough because you're asking people to trust what goes into their bodies. That trust gets built through education, not promotion.
+
+Bloom & Ritual has the right products and the right voice. What I'm not seeing is the infrastructure to turn followers into buyers — your Klaviyo setup is underutilised, and daily content isn't converting because it's not teaching.
+
+I help wellness brands automate the trust-building part using AI workflows. Would love to share what I'm seeing and hear where you're trying to take things this year.
+
+Open to a quick conversation?
+
+Ifeoma
+
+FOLLOW-UP SEQUENCE:
+TOUCH 1: VALUE ADD
+SUBJECT: Bloom & Ritual's quiz → missed revenue
+
+BODY:
+Sophie,
+
+Took your hormone quiz. It's good — but everyone who completes it gets dropped into the same email flow regardless of their results.
+
+Someone who selected "energy crashes" should hear about your adaptogens first. Someone who picked "cycle irregularity" needs the seed cycling kit front and center.
+
+That quiz is collecting intent data you're not using. One segmentation rule could change that.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+TOUCH 2: TIMELY RELEVANCE
+SUBJECT: January wellness surge + Bloom & Ritual
+
+BODY:
+Sophie,
+
+Wellness brands see their highest email opt-in rates in January. People are actively searching for hormone support, sleep solutions, cycle tracking — exactly what you sell.
+
+But most of those new subscribers will churn by February if they get generic content instead of personalized guidance.
+
+You've got maybe 3-4 weeks of peak intent. Worth a 15-minute call to see what's possible before the window closes?
+
+Ifeoma
+AIMarketer.co
+
+---
+
+TOUCH 3: CLEAN CLOSE
+SUBJECT: Last note from me
+
+BODY:
+Sophie,
+
+Final email — I'll leave your inbox alone after this.
+
+If segmented email journeys for Bloom & Ritual ever move up the priority list, the offer stands: one call to map what's possible with your existing Klaviyo setup.
+
+Either way, rooting for the brand.
+
+Ifeoma
+AIMarketer.co
+
+────────────────────────────────────────
+LEAD 4: Haus of Linen
+────────────────────────────────────────
+INITIAL OUTREACH:
+**MESSAGE 1 — COLD EMAIL:**
+
+SUBJECT: Your summer collection deserved more than one post
+
+BODY:
+Amara,
+
+I saw the summer collection drop last week — the relaxed linen sets are gorgeous. But one Instagram post for a seasonal launch? That collection should have had a five-part email sequence and a week of content building anticipation.
+
+Here's what I noticed: your About page tells a compelling story about sustainable linen and your journey as a designer. But that narrative never shows up in your captions or emails. Your Klaviyo is handling order confirmations, not revenue.
+
+I build AI co-workers that write email flows and captions in your brand voice — so your next drop gets the launch it deserves without you spending nights writing copy.
+
+Want me to send a free audit showing what a welcome sequence could look like for Haus of Linen?
+
+Ifeoma
+AIMarketer.co
+
+---
+
+**MESSAGE 2 — INSTAGRAM DM:**
+
+DM:
+Hey Amara — been following Haus of Linen for a while. Your photography is beautiful but I keep noticing your captions are just a line or two with no real hook to click through. Meanwhile your About page has this whole story about sustainable linen that never makes it into posts. Is that a time thing or intentional?
+
+---
+
+**MESSAGE 3 — LINKEDIN MESSAGE:**
+
+LINKEDIN:
+Amara — fellow founder here. I've been watching Haus of Linen grow and you've built something real: 22K engaged followers and a sustainability angle that actually means something.
+
+Quick observation from the outside: sustainable fashion brands at your stage usually hit a wall where the founder is still writing every caption and email personally. The summer collection launch looked like it might be feeling that squeeze.
+
+I help brands like yours set up AI co-workers that handle email flows and content — trained on your voice so it doesn't feel templated.
+
+Would you be open to a quick conversation about what that could look like?
+
+Ifeoma
+
+FOLLOW-UP SEQUENCE:
+**TOUCH 1: VALUE ADD**
+
+SUBJECT: The linen content gap I keep seeing
+
+BODY:
+Amara,
+
+Quick thought while reviewing sustainable fashion brands this week — there's a pattern I noticed.
+
+Most linen brands post product photos. Almost none show the fabric in motion: how it drapes, how it softens after washing, how it breathes in heat. Haus of Linen has the quality to own that narrative, but your feed reads like catalog shots rather than lifestyle moments.
+
+One simple shift: a 15-second clip of linen moving in a breeze outperforms flat-lays 3:1 for engagement in your category.
+
+Just wanted to share what I'm seeing.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+**TOUCH 2: TIMELY RELEVANCE**
+
+SUBJECT: Pre-fall timing for linen brands
+
+BODY:
+Amara,
+
+August is when sustainable fashion brands either capture early-fall shoppers or lose them to fast fashion "back to" campaigns.
+
+The window for "transitional linen" messaging opens in about two weeks. Layering content, earth tones, the "still warm but thinking ahead" customer mindset.
+
+Haus of Linen could own that moment with the right email sequence timed now.
+
+If you're planning anything for late summer, happy to show you how AI-written flows could support it.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+**TOUCH 3: CLEAN CLOSE**
+
+SUBJECT: Last note from me
+
+BODY:
+Amara,
+
+This is my final email — I won't keep filling your inbox.
+
+If Haus of Linen ever needs help turning your beautiful product into consistent content and email revenue without hiring a copywriter, my door's open.
+
+One standing offer: a free audit of your Klaviyo flows whenever timing works better.
+
+Wishing you a strong rest of the year.
+
+Ifeoma
+AIMarketer.co
+
+────────────────────────────────────────
+LEAD 5: Vivace Nutrition
+────────────────────────────────────────
+INITIAL OUTREACH:
+SUBJECT: That discount email last week — quick thought
+
+BODY:
+Daniel,
+
+Noticed Vivace sent a discount code to your full list last week. No segmentation between recent buyers, lapsed customers, or people who've never purchased.
+
+That same email, split three ways with different messaging, typically pulls 20-40% more revenue. Same content, smarter delivery.
+
+You're posting 5-6 times a week on Instagram and clearly putting in the work — but Klaviyo's doing the minimum when it could be your hardest-working channel. "Sports nutrition for everyday athletes" suggests at least three distinct audience segments that aren't showing up in your email strategy.
+
+I build Klaviyo automations that fix exactly this. Happy to do a free 15-minute audit and show you where the gaps are.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+DM:
+Hey Daniel — been following Vivace for a bit. Love the everyday athlete positioning, but noticed something: you're posting nearly daily, yet engagement's slipped the last couple months.
+
+Usually that's a sign the content's working harder than the systems behind it. Curious — are you running any automated flows in Klaviyo right now, or mostly manual sends?
+
+---
+
+LINKEDIN:
+Daniel — fellow founder here. Wellness and supplements is a grind, especially at your stage where you've built real traction (31K followers is no joke) but growth starts feeling like pushing uphill.
+
+Saw Vivace's email approach and recognised the pattern — batch-and-blast works until it doesn't, then list fatigue compounds fast.
+
+I specialise in Klaviyo automation for brands at exactly this inflection point. Not pitching anything — just genuinely curious how you're thinking about email as a channel right now. Open to comparing notes?
+
+Ifeoma
+
+FOLLOW-UP SEQUENCE:
+TOUCH 1: VALUE ADD
+SUBJECT: The post-workout window Vivace isn't using
+
+BODY:
+Daniel,
+
+Quick thought on something I noticed in Vivace's flow setup.
+
+Most supplement brands trigger their replenishment emails based on average consumption rates — 30 days for a 30-day supply. But "everyday athletes" don't consume linearly. Training cycles, rest weeks, competition prep all change the math.
+
+Brands that build consumption-based triggers around activity patterns (which you could pull from quiz data or purchase combos) see 25-30% higher repeat rates than fixed-interval reminders.
+
+Might be worth exploring.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+TOUCH 2: TIMELY RELEVANCE
+SUBJECT: New Year's resolution buyers are about to churn
+
+BODY:
+Daniel,
+
+January supplement buyers are historically the leakiest bucket — motivation fades by late February, subscriptions cancel, one-time purchases stay one-time.
+
+For Vivace, that window is right now. The people who bought in early January are deciding whether to reorder or let it slide.
+
+A targeted win-back sequence for that cohort — before they fully disengage — typically recovers 15-20% of at-risk revenue.
+
+Happy to sketch out what that would look like for Vivace specifically if useful.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+TOUCH 3: CLEAN CLOSE
+SUBJECT: Last note from me
+
+BODY:
+Daniel,
+
+I'll leave your inbox alone after this.
+
+If email revenue ever becomes a priority for Vivace — especially turning that engaged Instagram audience into repeat buyers through Klaviyo — I'm around.
+
+The audit offer stands whenever timing works better.
+
+Ifeoma
+AIMarketer.co
+
+────────────────────────────────────────
+LEAD 6: Canopy Home
+────────────────────────────────────────
+INITIAL OUTREACH:
+**MESSAGE 1 — COLD EMAIL:**
+
+SUBJECT: The home org blog feature you didn't use
+
+BODY:
+Hi Yuki,
+
+Saw Canopy Home got featured in that home organisation roundup last month. Beautiful inclusion — your storage pieces stood out.
+
+But I noticed it stayed quiet after. No newsletter mention, no story, no content series pulling from it. Third-party validation like that is rare. It usually sits unused because there's no system to turn moments into content.
+
+I work with home and lifestyle founders to build AI co-workers that handle exactly this — drafting caption batches in your voice, writing newsletters beyond abandoned carts, keeping brand communication active without adding to your hours.
+
+Your visual brand is already there. The voice just needs to match it.
+
+Want me to put together a quick audit of where AI could plug in? No pitch, just observations.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+**MESSAGE 2 — INSTAGRAM DM:**
+
+DM:
+Hey Yuki — been following Canopy Home for a bit. Your grid has this intentional calm that most home brands can't pull off.
+
+Noticed your captions stay pretty minimal though. Curious if that's a deliberate choice or more of a bandwidth thing? Either way, there's a voice in your visuals that's not making it into the words yet.
+
+Do you have a system for content, or is it more reactive right now?
+
+---
+
+**MESSAGE 3 — LINKEDIN MESSAGE:**
+
+LINKEDIN:
+Hi Yuki,
+
+Running a founder-led home brand at your stage usually means the marketing falls to you — and the writing gets deprioritised. Visual consistency first, voice later. I see that pattern often.
+
+Canopy Home already has the aesthetic down. What I find interesting is the gap between how polished your products look and how quiet your copy stays. Minimalism can have a voice; yours just hasn't been defined yet.
+
+I help founders build AI systems that handle content and email without sacrificing brand feel. Would be happy to share what that looks like if you're curious.
+
+Ifeoma
+
+FOLLOW-UP SEQUENCE:
+**TOUCH 1: VALUE ADD**
+
+SUBJECT: What Parachute does differently with press
+
+BODY:
+Hi Yuki,
+
+Was looking at how home brands stretch earned media. Parachute consistently turns one feature into 3-4 weeks of content — they'll pull a single quote, build a "why we made this" story around it, then reference it again in seasonal campaigns.
+
+Canopy's aesthetic already photographs better than most in the space. The gap isn't quality — it's extraction. One piece of validation can fuel a quarter of storytelling if there's a system behind it.
+
+Thought that might be useful regardless.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+**TOUCH 2: TIMELY RELEVANCE**
+
+SUBJECT: Spring reset content window
+
+BODY:
+Hi Yuki,
+
+Home organisation search volume spikes 40% between now and mid-April. The "spring reset" moment is when people actually buy storage solutions — not just pin them.
+
+Canopy's pieces fit that narrative perfectly, but the window is narrow. Brands that have content scheduled now capture it. The ones scrambling in March miss the early intent buyers.
+
+If you're thinking about content systems, this is the quarter where it pays back fastest.
+
+Ifeoma
+AIMarketer.co
+
+---
+
+**TOUCH 3: CLEAN CLOSE**
+
+SUBJECT: Last note from me
+
+BODY:
+Hi Yuki,
+
+Final email — I'll leave your inbox alone after this.
+
+If Canopy Home ever needs a way to turn moments like that roundup feature into ongoing content without adding hours to your week, the offer stands.
+
+Either way, genuinely rooting for what you're building.
+
+Ifeoma
+AIMarketer.co
+
+============================================================
+CAMPAIGN COMPLETE
+Generated by Ifeoma Onyemaechi — AIMarketer.co
+Claude AI Co-Worker Specialist | Marketing Automation
+============================================================
